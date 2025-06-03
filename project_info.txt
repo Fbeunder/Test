@@ -1,0 +1,20 @@
+PROJECT INFORMATIE
+
+Projectomschrijving:
+Dit project betreft het ontwikkelen van een eenvoudige "Hello World" applicatie in Python.
+
+Project doel, nut en functie:
+- Doel: Een werkende Python applicatie maken die "Hello World" weergeeft
+- Doelgroep: Beginners die Python willen leren of een eerste test willen uitvoeren
+- Nut: Demonstratie van een minimale werkende Python applicatie
+- Functie: Bij uitvoering toont het programma de tekst "Hello World" aan de gebruiker
+
+Architectuur/modulestructuur:
+Het project bestaat uit één enkele Python module die de basisfunctionaliteit bevat.
+
+Modules:
+1. hello_world.py
+   - Status: Nog te ontwikkelen
+   - Pad: hello_world.py
+   - Functionaliteit: Print "Hello World" naar de console
+   - Afhankelijkheden: Geen externe dependencies, alleen standaard Python
