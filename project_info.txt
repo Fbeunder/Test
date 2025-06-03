@@ -14,7 +14,7 @@ Het project bestaat uit één enkele Python module die de basisfunctionaliteit b
 
 Modules:
 1. hello_world.py
-   - Status: Nog te ontwikkelen
+   - Status: Voltooid
    - Pad: hello_world.py
    - Functionaliteit: Print "Hello World" naar de console
    - Afhankelijkheden: Geen externe dependencies, alleen standaard Python
