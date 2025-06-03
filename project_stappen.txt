@@ -1,14 +1,9 @@
 PROJECT STAPPEN
 
-Stap 1: Hello World applicatie ontwikkelen (must-have)
-- Omschrijving: Maak een Python script dat "Hello World" print
-- Doel: Een werkend Python programma opleveren dat bij uitvoering de tekst "Hello World" toont. Dit demonstreert dat de Python omgeving correct werkt en geeft een basis voor verdere ontwikkeling.
-- Te maken/wijzigen bestanden:
-  * hello_world.py (nieuw bestand)
-- Acties:
-  * Maak hello_world.py bestand aan
-  * Implementeer print statement voor "Hello World"
-  * Test de applicatie
+VOLTOOID:
+- Stap 1: Hello World applicatie ontwikkeld - Python script hello_world.py gemaakt dat "Hello World" print
+
+OPENSTAAND:
 
 Stap 2: README documentatie toevoegen (nice-to-have)
 - Omschrijving: Voeg een README.md toe met uitleg over het project
